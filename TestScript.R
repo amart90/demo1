@@ -1,5 +1,5 @@
 # Demonstration
 a <- 2 + 2
-b <- a^a
-print(b)
+c <- a/6
+print(c)
 
